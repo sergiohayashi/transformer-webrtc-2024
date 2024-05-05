@@ -320,3 +320,4 @@ pyrightconfig.json
 
 venv.transformer-webrtc
 data/processed
+venv.*
